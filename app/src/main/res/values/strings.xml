@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RAWG GAMES</string>
+    <string name="dummy_games_name">Vampire: The Masquerade - Bloodlines 2</string>
+    <string name="dummy_release">Release Date : 3 December 2023</string>
+    <string name="dummy_genre">Genres: Action, RPG</string>
+    <string name="dummy_developer">Developer: Hardlabs Games</string>
+    <string name="dummy_description">Sired in an act of vampire insurrection, your existence ignites the war for Seattle\'s blood trade. Enter uneasy alliances with the creatures who control the city and uncover the sprawling conspiracy which plunged Seattle into a bloody civil war between powerful vampire factions. ♞Become the Ultimate Vampire Immerse yourself in the World of Darkness and live out your vampire fantasy in a city filled with intriguing characters that react to your choices. You and your unique disciplines are a weapon in our forward-driving, fast-moving, melee-focussed combat system. Your power will grow as you advance, but remember to uphold the Masquerade and guard your humanity... or face the consequences.</string>
+    <string name="description">Description</string>
+
+</resources>
